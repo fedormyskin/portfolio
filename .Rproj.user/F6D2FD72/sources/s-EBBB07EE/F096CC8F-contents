@@ -1,0 +1,33 @@
+baseurl: https://federicopianzola.me
+title: Federico Pianzola
+theme: hugo-creative-portfolio-theme
+languageCode: en-us
+disqusShortname: ''
+googleAnalytics: ''
+params:
+  copyright: 'CC-BY-SA Federico Pianzola'
+  description: 'My portfolio'
+  email: f.pianzola@gmail.com
+  navlinks:
+    - home: yes
+      name: Home
+      url: portfolio/
+    - name: About me
+      url: about/
+    - name: Publications
+      url: publications/
+  sidebarAbout:
+    - I am a researcher doing stuff called empirical literary studies, computational literary studies, cultural analytics, digital humanities.
+  social:
+    email: f.pianzola@gmail.com
+    facebook: 
+    github: https://github.com/fedormyskin
+    gitlab: 
+    googleplus: 
+    instagram: 
+    linkedin: 
+    stackoverflow: 
+    twitter: https://twitter.com/fpianz
+    whatsapp: 
+    youtube: 
+  style: sea

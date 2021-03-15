@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Federico Pianzola</title>
+    <link>https://federicopianzola.me/</link>
+    <description>Recent content on Federico Pianzola</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Mar 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://federicopianzola.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Monograph about Digital Social Reading</title>
+      <link>https://federicopianzola.me/portfolio/10_dsrbook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://federicopianzola.me/portfolio/10_dsrbook/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Digital Social Reading: Sharing Fiction in the 21st Century&lt;/em&gt; (under review).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Wattpad large-scale analysis</title>
+      <link>https://federicopianzola.me/portfolio/4_wattpad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://federicopianzola.me/portfolio/4_wattpad/</guid>
+      <description>&lt;p&gt;The frist large-scale quantiative and qualitative study of the digital social reading platform Wattpad.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cultural ratcheting in online fanfiction</title>
+      <link>https://federicopianzola.me/portfolio/13_ratcheting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://federicopianzola.me/portfolio/13_ratcheting/</guid>
+      <description>&lt;p&gt;Modelling of ratcheting (re: cultural evolution theory) in online fanfiction.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cumulative culture in fanfiction</title>
+      <link>https://federicopianzola.me/portfolio/6_cumulative_hp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://federicopianzola.me/portfolio/6_cumulative_hp/</guid>
+      <description>&lt;p&gt;Evidence of cultural accumulation and improvement (re: cultural evolution theory) in AO3 fanfiction related to &lt;em&gt;Harry Potter&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Digital apparatus for textbook</title>
+      <link>https://federicopianzola.me/portfolio/11_pearson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://federicopianzola.me/portfolio/11_pearson/</guid>
+      <description>&lt;p&gt;Tutorial for computational literary analysis and other supplementary material for students.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Digital social reading on Twitter</title>
+      <link>https://federicopianzola.me/portfolio/9_mattia_tw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://federicopianzola.me/portfolio/9_mattia_tw/</guid>
+      <description>&lt;p&gt;Analysis of readers’ engagement and text classification for an educational digital social reading activity on Twitter.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Downsizing Alice</title>
+      <link>https://federicopianzola.me/portfolio/3_downsizing_alice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://federicopianzola.me/portfolio/3_downsizing_alice/</guid>
+      <description>&lt;p&gt;A VR prototype developed to test whether spatial effects matching the story content affect narrative absorption and presence.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Instagram for museums</title>
+      <link>https://federicopianzola.me/portfolio/8_instagram_first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://federicopianzola.me/portfolio/8_instagram_first/</guid>
+      <description>&lt;p&gt;Classification of images posted on Instagram by museum visitors (UK, US, KR, FR).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Linked Potter</title>
+      <link>https://federicopianzola.me/portfolio/5_linked_potter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://federicopianzola.me/portfolio/5_linked_potter/</guid>
+      <description>&lt;p&gt;Ontlogy and knowledge base of metadata extracted from AO3 fanfiction related to &lt;em&gt;Harry Potter&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Reading in virtual reality</title>
+      <link>https://federicopianzola.me/portfolio/1_alice_tilburg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://federicopianzola.me/portfolio/1_alice_tilburg/</guid>
+      <description>&lt;p&gt;A prototype designed to test whether reading in VR increases narrative absorption and intention to read.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Remediation of Korean manuscript</title>
+      <link>https://federicopianzola.me/portfolio/7_uigwe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://federicopianzola.me/portfolio/7_uigwe/</guid>
+      <description>&lt;p&gt;Remediation of a 19th century Korean manuscript using fuzzy particles and sound visualization.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Social annotation with students</title>
+      <link>https://federicopianzola.me/portfolio/12_dsr_sogang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://federicopianzola.me/portfolio/12_dsr_sogang/</guid>
+      <description>&lt;p&gt;Digital apparatus for social annotation in support of online teaching.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>StoryVR</title>
+      <link>https://federicopianzola.me/portfolio/2_storyvr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://federicopianzola.me/portfolio/2_storyvr/</guid>
+      <description>&lt;p&gt;A VR app for listening to audiobooks and reading in immersive environments.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
