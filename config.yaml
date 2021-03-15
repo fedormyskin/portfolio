@@ -6,7 +6,7 @@ disqusShortname: ''
 googleAnalytics: ''
 params:
   copyright: 'CC-BY-SA Federico Pianzola'
-  description: 'My portfolio'
+  description: 'Federico Pianzola personal website'
   email: f.pianzola@gmail.com
   navlinks:
     - home: yes
