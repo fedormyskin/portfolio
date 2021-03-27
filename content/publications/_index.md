@@ -2,19 +2,20 @@
 date: "2021-03-13"
 title: Publications
 ---
+<span style="color: dark red;">Email me if you can't access any of my publications.</span>
 
 ### Books
 * Pianzola, Federico. **2021**. _Digital Social Reading: Sharing Fiction in the 21st Century_. (Under review at MIT Press).
-* Pianzola, Federico. **2017**. [_Le «trappole morali» di Primo Levi. Miti e fiction_](https://www.ledizioni.it/prodotto/f-pianzola-le-trappole-morali-di-primo-levi/) [Primo Levi’s “moral traps”: Myth and Fiction]. Ledizioni.
+* Pianzola, Federico. **2017**. [_Le «trappole morali» di Primo Levi. Miti e fiction_](https://www.ledizioni.it/prodotto/f-pianzola-le-trappole-morali-di-primo-levi/) [Primo Levi’s “moral traps”: Myth and Fiction]. Ledizioni (Open Access).
 
 ### Articles
 
 * Rebora, Simone, Peter Boot, Federico Pianzola, Brigitte Gasser, J. Berenike Herrmann, Maria Kraxenberger, Moniek Kuijpers, et al. **2021** (in press). “[Digital Humanities and Digital Social Reading](https://osf.io/mf4nj/)”. _Digital Scholarship in the Humanities_.
-* Pianzola, Federico, Giuseppe Riva, Karin Kukkonen, and Fabrizia Mantovani. **2021** (in press). “[Presence, Flow, and Narrative Absorption: An Interdisciplinary Theoretical Exploration with a New Spatiotemporal Integrated Model Based on Predictive Processing](https://drive.google.com/file/d/17Bqe1wzulz_XbGAMIQ4vbQsNcTUn7MoL/view?usp=sharing)”. _Open Research Europe_.
-* Pianzola, Federico. **2021** (in press). “[Presence, flow, and narrative absorption questionnaires: A scoping review](https://psyarxiv.com/8xvtp/)”. _Open Research Europe_.
-* Rhee, Boa, Federico Pianzola, and Gangta Choi. **2021** (in press). “[Analyzing the museum experience through the lens of Instagram posts](https://boa.unimib.it/retrieve/handle/10281/304490/455069/FP_revised_Curator_img.pdf)”. _Curator: The Museum Journal_. 
-* Pianzola, Federico. **2021**. “[Modeling Literary Criticism: How to Do It and How to Teach It to Humans and Machines](https://www.jstor.org/stable/10.5325/style.55.1.0111?refreqid=excelsior%3Ac85b3a691a42071443a55927a1d078ef&seq=1)”. _Style_ 55.1: 111–117. 
 * Pianzola, Federico, Maurizio Toccu, and Marco Viviani. **2021** (in press). “[Readers’ Engagement through Digital Social Reading on Twitter: The TwLetteratura Case Study](https://boa.unimib.it/retrieve/handle/10281/303838/453888/PDF_Proof.PDF)”. _Library Hi Tech_.
+* Rhee, Boa, Federico Pianzola, and Gangta Choi. **2021** (in press). “[Analyzing the museum experience through the lens of Instagram posts](https://boa.unimib.it/retrieve/handle/10281/304490/455069/FP_revised_Curator_img.pdf)”. _Curator: The Museum Journal_. 
+* Pianzola, Federico, Giuseppe Riva, Karin Kukkonen, and Fabrizia Mantovani. **2021**. “[Presence, Flow, and Narrative Absorption: An Interdisciplinary Theoretical Exploration with a New Spatiotemporal Integrated Model Based on Predictive Processing](https://doi.org/10.12688/openreseurope.13193.1)”. _Open Research Europe_, 1.28: 1-25.
+* Pianzola, Federico. **2021**. “[Presence, flow, and narrative absorption questionnaires: A scoping review](https://doi.org/10.12688/openreseurope.13277.1)”. _Open Research Europe_, 1.11: 1-12.
+* Pianzola, Federico. **2021**. “[Modeling Literary Criticism: How to Do It and How to Teach It to Humans and Machines](https://www.jstor.org/stable/10.5325/style.55.1.0111?refreqid=excelsior%3Ac85b3a691a42071443a55927a1d078ef&seq=1)”. _Style_ 55.1: 111–117.
 * Rhee, Boa, Federico Pianzola, Nayea Oh, Gangta Choi, and Jungho Kim. **2021**. “[Remediating Tradition with Technology: A Case Study of ‘From Tangible to Intangible: A Media Showcase of Kisa Chin p’yori Chinch’an Uigwe’](https://boa.unimib.it/retrieve/handle/10281/300563/446466/digital_creativity_20201104_final.pdf)”. _Digital Creativity_, January: 1-15.
 * Pianzola, Federico, Simone Rebora, and Gerhard Lauer. **2020**. “[Wattpad as a resource for literary studies. Quantitative and qualitative examples of the importance of digital social reading and readers’ comments in the margins](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226708)”. _PLoS ONE_ 15.1: e0226708.
 * Pianzola, Federico, Katalin Bálint, and Jessica Weller. **2019**. “[Virtual Reality as a Tool for Promoting Reading via Enhanced Narrative Absorption and Empathy](https://drive.google.com/file/d/17Ef-GXNWI8eNlWTTRTAFWBJODZ1gMCfm/view?usp=sharing)”. Scientific Study of Literature 9.2: 162–93.
