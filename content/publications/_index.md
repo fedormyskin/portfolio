@@ -5,7 +5,7 @@ title: Publications
 Email me if you can't access any of my publications.
 
 ### Books
-* Pianzola, Federico. **2021**. _Digital Social Reading: Sharing Fiction in the 21st Century_. (Under review at MIT Press).
+* Pianzola, Federico. **2021**. [_Digital Social Reading: Sharing Fiction in the 21st Century_](https://wip.mitpress.mit.edu/digital-social-reading). (MIT Press open peer review -- click on the title and leave your comments on the manuscript!).
 * Pianzola, Federico. **2017**. [_Le «trappole morali» di Primo Levi. Miti e fiction_](https://www.ledizioni.it/prodotto/f-pianzola-le-trappole-morali-di-primo-levi/) [Primo Levi’s “moral traps”: Myth and Fiction]. Ledizioni (Open Access).
 
 ### Articles

@@ -26,4 +26,4 @@ Sentiment analysis, network analysis, linear regression, multilevel mixed effect
 
 ### Outputs
 
-Pianzola, Federico. 2021. _Digital Social Reading: Sharing Fiction in the 21st Century_. (Under review at MIT Press).
+Pianzola, Federico. 2021. [_Digital Social Reading: Sharing Fiction in the 21st Century_](https://wip.mitpress.mit.edu/digital-social-reading). (MIT Press open peer review).
