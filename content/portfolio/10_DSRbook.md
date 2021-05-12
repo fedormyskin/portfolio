@@ -7,7 +7,7 @@ title: Monograph about Digital Social Reading
 weight: 1
 ---
 
-_Digital Social Reading: Sharing Fiction in the 21st Century_ (under review).
+_Digital Social Reading: Sharing Fiction in the 21st Century_ (MIT Press open peer review).
 <!--more-->
 
 ### – 2020 –
