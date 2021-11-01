@@ -3,10 +3,10 @@ date: "2021"
 title: About me
 ---
 
-I am a Marie Sklodowska-Curie Global Fellow at the University of Milan-Bicocca (Italy) and Sogang University (South Korea). I am also:
+I am an Assistant Professor in Computational Humanities at the University of Groningen (NL). I am also:
 -	co-founder and managing editor of [Enthymema](https://riviste.unimi.it/index.php/enthymema/index), an Open Access international academic journal of theory, critics and philosophy of literature;
 -	member of the scientific advisory board of [OPERAS](https://www.operas-eu.org) (the Research Infrastructure supporting open scholarly communication in the social sciences and humanities in the European Research Area);
--	member of the governing board of [IGEL](https://sites.google.com/igelassoc.org/igel2018/home) (the International Society of the Empirical Study of Literature).
+-	member of the governing board of [IGEL](https://igelsociety.org) (the International Society of the Empirical Study of Literature).
 
 My research concerns narrative theory and the impact of digital technologies on literature, especially regarding digital social reading and the use of virtual reality. 
 
