@@ -5,7 +5,7 @@ languageCode: en-us
 disqusShortname: ''
 googleAnalytics: ''
 params:
-  copyright: 'CC-BY-SA Federico Pianzola <br><br> <img src="/img/EU_flag.jpg" alt="EU flag" width="20%"> Part of my work has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No 792849 <br><br>'
+  copyright: 'CC-BY-SA Federico Pianzola <br><br> <img src="/img/EU_flag.jpg" alt="EU flag" width="20%" align="left"> Part of my work has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No 792849 <br><br>'
   description: 'Federico Pianzola personal website'
   email: f.pianzola@gmail.com
   navlinks:
