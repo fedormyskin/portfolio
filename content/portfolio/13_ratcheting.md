@@ -29,4 +29,4 @@ Web scraping, hierarchical clustering, t-SNE, virtual machine deployment
 
 ### Outputs
 
-n.a.
+Pianzola, Federico. 2020. [Cumulative Cultural Evolution scheme](https://zenodo.org/record/3877702#.YcJPgS9Q0mo)
