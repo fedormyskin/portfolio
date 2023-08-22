@@ -3,7 +3,7 @@ title: Federico Pianzola
 theme: hugo-creative-portfolio-theme
 languageCode: en-us
 disqusShortname: ''
-googleAnalytics: 'UA-63084564-1'
+googleAnalytics: ''
 params:
   copyright: 'CC-BY-SA Federico Pianzola <br><br> <img src="/img/EU_flag.jpg" alt="EU flag" width="20%" style="float:left; margin-right:10px"> Part of my work has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No 792849 <br><br>'
   description: 'Federico Pianzola personal website'

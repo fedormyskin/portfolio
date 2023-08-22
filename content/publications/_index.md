@@ -5,14 +5,14 @@ title: Publications
 Email me if you can't access any of my publications.
 
 ### Books
-* Pianzola, Federico. **2021**. [_Digital Social Reading: Sharing Fiction in the 21st Century_](https://wip.mitpress.mit.edu/digital-social-reading). (MIT Press open peer review -- click on the title and leave your comments on the manuscript!).
+* Pianzola, Federico. **2021**. [_Digital Social Reading: Sharing Fiction in the 21st Century_](https://wip.mitpress.mit.edu/digital-social-reading). (MIT Press open peer review).
 * Pianzola, Federico. **2017**. [_Le «trappole morali» di Primo Levi. Miti e fiction_](https://www.ledizioni.it/prodotto/f-pianzola-le-trappole-morali-di-primo-levi/) [Primo Levi’s “moral traps”: Myth and Fiction]. Ledizioni (Open Access).
 
 ### Articles, book chapters, and conference proceedings
 
-* Pianzola, Federico. **Forthcoming**. “Sociality and Seriality in Digital Reading: Two Extra Memos for This Millennium”. _Companion to Literary Media_. Eds. Bronwen Thomas, Julia Round, and Astrid Ensslin. Routledge.
+* Pianzola, Federico. **2023**. “Sociality and Seriality in Digital Reading: Two Extra Memos for This Millennium”. _Companion to Literary Media_. Eds. Bronwen Thomas, Julia Round, and Astrid Ensslin. Routledge.
 * Sharma, S., & Pianzola, F. **Forthcoming**. "[Can a book make you happy? Predicting emotional links between genre, plot, and reader response](https://osf.io/xg6d4)". _Journal of Cultural Analytics_. (Accepted based on the registered report)
-* Pianzola, F., Riva, G., Kukkonen, K., & Mantovani, F. **Forthcoming**. "[Am I present in imaginary worlds? Intentions, actions, and flow in mediated experiences and fiction](https://doi.org/10.1017/S0140525X2100220X)". _Behavioral and Brain Sciences_, 41–42.
+* Pianzola, F., Riva, G., Kukkonen, K., & Mantovani, F. **2022**. "[Am I present in imaginary worlds? Intentions, actions, and flow in mediated experiences and fiction](https://doi.org/10.1017/S0140525X2100220X)". _Behavioral and Brain Sciences_, 41–42.
 * Rhee, B.-A., Pianzola, F., Choi, J., Hyung, W., & Hwang, J. **2022**. "[Visual content analysis of visitors’ engagement with an instagrammable exhibition](https://doi.org/10.1080/09647775.2021.2023902)". _Museum Management and Curatorship_, 1–15.
 * Rebora, Simone, Peter Boot, Federico Pianzola, Brigitte Gasser, J. Berenike Herrmann, Maria Kraxenberger, Moniek Kuijpers, et al. **2021**. “[Digital Humanities and Digital Social Reading](https://doi.org/10.1093/llc/fqab020)”. _Digital Scholarship in the Humanities_.
 * Pianzola, Federico, Maurizio Toccu, and Marco Viviani. **2021**. “[Readers’ Engagement through Digital Social Reading on Twitter: The TwLetteratura Case Study](https://doi.org/10.1108/LHT-12-2020-0317)”. _Library Hi Tech_.([Preprint here](https://boa.unimib.it/retrieve/handle/10281/303838/453888/PDF_Proof.PDF))
