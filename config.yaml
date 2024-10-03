@@ -5,9 +5,9 @@ languageCode: en-us
 disqusShortname: ''
 googleAnalytics: ''
 params:
-  copyright: 'CC-BY-SA Federico Pianzola <br><br> <img src="/img/EU_flag.jpg" alt="EU flag" width="20%" style="float:left; margin-right:10px"> Part of my work has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No 792849 <br><br>'
+  copyright: 'CC-BY-SA Federico Pianzola <br><br> <img src="/img/EU_flag.jpg" alt="EU flag" width="20%" style="float:left; margin-right:10px"> Part of my work has received funding from the European Union’s Horizon 2020 and Horizon Europe research and innovation programme. <br><br>'
   description: 'Federico Pianzola personal website'
-  email: f.pianzola@gmail.com
+  email: f.pianzola@rug.nl
   navlinks:
     - home: yes
       name: Home
@@ -19,7 +19,7 @@ params:
   sidebarAbout:
     - I am a researcher doing stuff called empirical literary studies, computational literary studies, cultural analytics, digital humanities.
   social:
-    email: f.pianzola@gmail.com
+    email: f.pianzola@rug.nl
     facebook: 
     github: https://github.com/fedormyskin
     gitlab: 
