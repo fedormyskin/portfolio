@@ -8,7 +8,7 @@ I am an Assistant Professor in Computational Humanities at the University of Gro
 - managing editor of the journal [Scientific Study of Literature](https://ssol-journal.com);
 - member of the advisory board of the journal [Computational Humanities Research](https://www.cambridge.org/core/journals/computational-humanities-research);
 -	member of the scientific advisory board of [OPERAS](https://www.operas-eu.org) (the Research Infrastructure supporting open scholarly communication in the social sciences and humanities in the European Research Area);
--	member of the governing board of [IGEL](https://igelsociety.org) (the International Society of the Empirical Study of Literature).
+-	president of [IGEL](https://igelsociety.org) (the International Society of the Empirical Study of Literature).
 
 My research concerns computational literary studies, narrative theory, and the impact of digital technologies on literature, especially regarding digital social reading. 
 
@@ -22,7 +22,7 @@ I love collaborations, so feel free to write me!
 #### Education
 
 * Ph.D. || Univeristy of Florence / University of Cambridge
-* Ma & Ba || University of Milan
+* MA & BA || University of Milan
 * Erasmus exchange student || Tartu University
 
 [1]: /img/about.jpg
