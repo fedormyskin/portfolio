@@ -3,10 +3,11 @@ date: "2021"
 title: About me
 ---
 
-I am an Assistant Professor in Computational Humanities at the University of Groningen (NL). I am also:
+I am a tenured Assistant Professor in Computational Humanities at the University of Groningen (NL). I am also:
 -	co-founder and member of the editorial board of [Enthymema](https://riviste.unimi.it/index.php/enthymema/index), an Open Access international academic journal of theory, critics and philosophy of literature;
 - managing editor of the journal [Scientific Study of Literature](https://ssol-journal.com);
-- member of the advisory board of the journal [Computational Humanities Research](https://www.cambridge.org/core/journals/computational-humanities-research);
+- member of the editorial board of the [Journal of Computational Literary Studies (JCLS)](https://jcls.io);
+- member of the editorial board of the [Journal of Cultural Analytics](https://culturalanalytics.org);
 -	member of the scientific advisory board of [OPERAS](https://www.operas-eu.org) (the Research Infrastructure supporting open scholarly communication in the social sciences and humanities in the European Research Area);
 -	president of [IGEL](https://igelsociety.org) (the International Society of the Empirical Study of Literature).
 
